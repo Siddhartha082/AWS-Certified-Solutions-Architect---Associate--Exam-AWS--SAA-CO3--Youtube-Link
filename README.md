@@ -4,7 +4,7 @@
 ![image](https://github.com/Siddhartha082/AWS-Certified-Solutions-Architect---Associate--Exam-AWS--SAA-CO3--Youtube-Link/assets/110781138/e713e654-4487-49f8-a133-79950899e0aa)
 
 
-# Freecodecamp.org ( 50hrs of class ... ) - Excellent vedio Must See
+#Freecodecamp.org ( 50hrs of class ... ) - Excellent vedio Must See
 
 #Link : - https://youtu.be/c3Cn4xYfxJY?si=YHjCrwwNZ09QrEzg
 
